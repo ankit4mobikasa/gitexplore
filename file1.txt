@@ -2,6 +2,8 @@ content from master branch
 new content from master
 experiment work here
 experiment work here
+feature for master
 experiment work continued
 experiment work continued
+addition from master
 experiment work continued again
